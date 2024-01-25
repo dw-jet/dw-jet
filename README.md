@@ -2,7 +2,12 @@
 
 I'm a writer, developer, graduate student at SNHU, and *nix enthusiast.
 
-Breaking out of my OOP comfort zone by learning Elm and Lisp. Bring on those ((()))! Oh and prose. I'm writing a novel in emacs.
+#### Learning
+📚 Breaking out of my OOP comfort zone by learning Elm and Lisp. Bring on those ((()))!
+
+#### Current projects
++ Writing a novel (in emacs, of course)
++ Building tools for my work and writing process
 <!--
 **dw-jet/dw-jet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
