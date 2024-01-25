@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a writer, developer, graduate student at SNHU, and *nix enthusiast.
+
+Breaking out of my OOP comfort zone by learning Elm and Lisp. Bring on those ((()))!
 <!--
 **dw-jet/dw-jet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
