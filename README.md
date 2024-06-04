@@ -6,7 +6,7 @@ I'm a writer, developer, graduate student at SNHU, and *nix enthusiast.
 📚 Breaking out of my comfort zone by learning iOS development.
 
 #### Current projects
-+ Writing a novel (in emacs, of course)
++ Writing a novel
 + Building tools for my work and writing process
 <!--
 **dw-jet/dw-jet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
