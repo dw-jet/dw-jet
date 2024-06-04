@@ -3,7 +3,7 @@
 I'm a writer, developer, graduate student at SNHU, and *nix enthusiast.
 
 #### Learning
-📚 Breaking out of my garbage collected comfort zone by learning C++. Bring on those smart pointers!
+📚 Breaking out of my comfort zone by learning iOS development.
 
 #### Current projects
 + Writing a novel (in emacs, of course)
